@@ -1,0 +1,107 @@
+{
+    "tenantId": "10102020",
+    "demographicInfo": {
+        "accountType": "BUSINESS",
+        "category": "NON_REVENUE",
+        "paymentModel": "PREPAID",
+        "fleet": false,
+        "visitor": false,
+        "name": {
+            "prefix": "Misc.",
+            "firstName": "Heather",
+            "middleName": "Mark",
+            "lastName": "Aguirre",
+            "suffix": "Jr."
+        },
+        "email": "grahamgina@example.net",
+        "confirmEmail": "grahamgina@example.net",
+        "alternateEmail": "melissa45@example.com",
+        "mobileNumber": "627-3376-479",
+        "phoneNumber": "9889308320"
+    },
+    "addressDetails": {
+        "billingAddress": [
+            {
+                "country": "Austria",
+                "address1": "897 Brown Gateway Suite 300",
+                "address2": "John Freeway",
+                "city": "West Wendy",
+                "state": "South Jeanetteport",
+                "zipCode": "78904",
+                "isCurrentAddress": false,
+                "lastUpdatedDate": "2024-09-01T12:00:00"
+            }
+        ],
+        "mailingAddress": [
+            {
+                "country": "Vietnam",
+                "address1": "28023 Wade Shoal",
+                "address2": "Smith Station",
+                "city": "Davidsonhaven",
+                "state": "Port Donald",
+                "zipCode": "87121",
+                "isCurrentAddress": false,
+                "lastUpdatedDate": "2024-09-01T12:00:00"
+            }
+        ],
+        "shippingAddress": [
+            {
+                "country": "El Salvador",
+                "address1": "11082 Amanda Meadow Apt. 332",
+                "address2": "Katelyn Drive",
+                "city": "Tinaberg",
+                "state": "Port Kelly",
+                "zipCode": "30162",
+                "isCurrentAddress": false,
+                "lastUpdatedDate": "2024-09-01T12:00:00"
+            }
+        ]
+    },
+    "listOfVehicles": [
+        {
+            "vehicleDetails": {
+                "hamRadioOperator": true,
+                "temporary": false,
+                "plateNumber": "ABC1234",
+                "plateState": "CA",
+                "plateCountry": "USA",
+                "plateType": "PERSONAL",
+                "domestic": false,
+                "yearOfRegistration": 2009,
+                "vehicleMake": "Subaru\t",
+                "vehicleModel": "Forester",
+                "vehicleColor": "Red",
+                "vehicleClass": "Convertible",
+                "plateRegistrationStartDate": "2025-01-01T00:00:00",
+                "plateRegistrationEndDate": "2025-01-01T00:00:00",
+                "vehicleAccountActivationDate": "2024-09-01T12:00:00",
+                "vehicleAccountEndDate": "2025-09-01T12:00:00"
+            },
+            "tollingMethod": "TAG"
+        }
+    ],
+    "tagInfo": [
+        {
+            "hasTag": true,
+            "tagAgencyId": "Agt13",
+            "tagId": "RENU28",
+            "itemType": "INTEGRATED",
+            "tagType": "MOUNTED",
+            "mounting": "NO",
+            "tagDeliveryMethod": "CUSTOMER_ALREADY_HAS_TRANSPONDER",
+            "tagAliasName": "Brett"
+        }
+    ],
+    "paymentInfo": [
+        {
+            "cardId": "9487968020534092",
+            "paymentMethod": "CREDIT",
+            "cardAlias": "event seem site"
+        },
+        {
+            "cardId": "1526940892576122",
+            "paymentMethod": "CREDIT",
+            "cardAlias": "weight voice five"
+        }
+    ]
+}
